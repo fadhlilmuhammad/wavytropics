@@ -12,6 +12,8 @@ Author: **Fadhlil R. Muhammad**
 
 ORCID: https://orcid.org/0000-0003-1250-4663
 
+Contact at: fadhlilrizki@student.unimelb.edu.au or fadhlilrmuhammad@gmail.com
+
 Affiliation: **The University of Melbourne**
 
 Welcome to day 1 of wavytropics practical session. In this notebook, you will learn how to:
