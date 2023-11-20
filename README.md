@@ -1,3 +1,6 @@
+# Please cite this module if you use the code for your work :)
+
+<a href="https://zenodo.org/doi/10.5281/zenodo.10159356"><img src="https://zenodo.org/badge/718453871.svg" alt="DOI"></a>
 
 # WAVYTROPICS Practical Session 1
 
